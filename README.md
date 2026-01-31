@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaditya Hasabnis</h1>
 
 <p align="center">
-  <em>Upcoming Software Engineer • Full-Stack Developer</em><br/>
+  <em>Software Engineer • Full-Stack Developer</em><br/>
   B.Tech Computer Engineering (2026) • Pune, India
 </p>
 
@@ -10,20 +10,11 @@
   <a href="mailto:aaditya.hasabnis@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/aaditya-hasabnis">💼 LinkedIn</a>
 </p>
+<p align="center">
+  🚀 Building scalable, secure, and maintainable web applications using modern technologies and frameworks.
+</p>
 
 <br/>
-
-## 👨‍💻 About Me
-
-- 🚀 Full-stack developer building **clean, scalable, and maintainable web applications**  
-- 💻 Strong experience with **React, Next.js, Node.js, Express** and **backend system design**  
-- 🗄️ Proficient in **PostgreSQL, MongoDB, Redis** and **AWS, Docker deployments**  
-- 🏆 Delivered **production-grade features** across recruitment platforms, ERP systems, and AI-based tools  
-- 🎯 Actively preparing for **Software Engineer / Full-Stack roles (2026)**
-
-<br/>
-
-## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -40,16 +31,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=aadityahasabnis&theme=dark&hide_border=true" height="170" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <em>"Code with clarity. Build with intent."</em>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" alt="Developer coding animation"/>
 </p>
