@@ -6,12 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aadityahasabnis.site">🌐 Portfolio</a> •
-  <a href="mailto:aaditya.hasabnis@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/aaditya-hasabnis">💼 LinkedIn</a>
-</p>
-<p align="center">
-  🚀 Building scalable, secure, and maintainable web applications using modern technologies and frameworks.
+  Building scalable, secure, and maintainable web applications using modern technologies and frameworks.
 </p>
 
 <br/>
@@ -26,15 +21,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aadityahasabnis&theme=dark&hide_border=true" height="170" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
