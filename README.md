@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aaditya Hasabnis</h1>
-
 <p align="center"> 
   <em>Software Engineer • Full-Stack Developer</em><br/>
   B.Tech Computer Engineering (2026) • Pune, India
